@@ -1,4 +1,4 @@
-![logo] (banner.jpg)
+![logo] (https://github.com/arajput108/arajput108/blob/main/banner.jpg)
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Aakash Rajput</h1>
