@@ -1,8 +1,7 @@
 ![Logo](https://github.com/arajput108/arajput108/blob/main/banner.jpg)
-### Hi there 👋
-### Namaskar !!🙏
 
-<h1 align="center">Hi 👋, I'm Aakash Rajput🌞</h1>
+
+<h1 align="center">Namaskar!!🙏, I'm Aakash Rajput🌞</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="center" alt="coding gif" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNEb2sPG0DvL_pADlVGwfk5Yba8TKHYUWpsHhlAYqnygSAvQNY2X9DKIARhZbk6CHF-bQ&usqp=CAU">
