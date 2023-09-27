@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Namaskar!!🙏, I'm Aakash Rajput🌞</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bharat(India).</h3>
 
 <img align="center" alt="coding gif" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNEb2sPG0DvL_pADlVGwfk5Yba8TKHYUWpsHhlAYqnygSAvQNY2X9DKIARhZbk6CHF-bQ&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arajput108&label=Profile%20views&color=0e75b6&style=flat" alt="arajput108" /> </p>
