@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **guidance in this domain.**
 
-- 📫 How to reach me **aakashrajput408@gmail.com**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/aakash-rajput%F0%9F%87%AE%F0%9F%87%B3-064b361b4/)**
 
 
 <h3 align="left">Connect with me:</h3>
