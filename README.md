@@ -1,4 +1,4 @@
-![Logo](https://github.com/arajput108/arajput108/blob/main/banner.jpg)
+![Logo]([https://github.com/arajput108/arajput108/blob/main/banner.jpg](https://www.canva.com/design/DAGM4HX0rwU/gD2frtJC7VHDFmCM6Oy14g/view?utm_content=DAGM4HX0rwU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 <h1 align="center">Namaskar!!🙏, I'm Aakash Rajput🌞</h1>
