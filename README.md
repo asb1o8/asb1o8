@@ -1,6 +1,6 @@
 
 <h1 align="center">Namaskar!!🙏, I'm Aakash Rajput🌞</h1>
-<h3 align="center">A passionate frontend developer from भारत (India).</h3>
+<h3 align="center">A passionate frontend developer from भारत (India)🇮🇳 </h3>
 
 [![](https://visitcount.itsvg.in/api?id=arajput108&icon=5&color=11)](https://visitcount.itsvg.in)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arajput108&label=Profile%20views&color=0e75b6&style=flat" alt="arajput108" /> </p> -->
@@ -52,7 +52,7 @@
 ## 🏆 GitHub Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arajput108" alt="arajput108" /></a> </p>
 
-## :zap: Open Source Programs & Achievements
+## :zap: Achievements & Profile:
 
   <!-- <div align= "left">
             <td style="border-left: 1px solid #dddddd; padding: 10px;" width="400">
