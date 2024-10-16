@@ -54,11 +54,57 @@
 
 ## :zap: Open Source Programs & Achievements
 
-<div align="left">
-  <a href="https://tryhackme.com/r/p/vajra108" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/vajra108.png" alt="Your Image Badge" alt="TryHackMe Badge" width="450" height="150"/>
-  </a>
+  <!-- <div align= "left">
+            <td style="border-left: 1px solid #dddddd; padding: 10px;" width="300">
+              <img src="https://tryhackme-badges.s3.amazonaws.com/vajra108.png" alt="THM Badge" width="300" />
+              <br>
+              <a href="https://tryhackme.com/r/p/vajra108" target="_blank">TryHackMe Profile</a>
+            </td>
+        <br>
+        <br>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="150">
+              <img src="https://github.com/arajput108/arajput108/blob/main/Images/Holopin-%201.png" alt="Holopin Badge" width="150" />
+              <br>
+              <strong>Holopin Badge</strong>
+            </td>
+        <br>
+        <br>
+          <td style="border-right: 1px solid #dddddd; padding: 10px;" width="150">
+              <img src="https://github.com/arajput108/arajput108/blob/main/Images/Early%20Bird%20Pegasaurus.png" alt="Pegasaurus Badge" width="150" />
+              <br>
+              <strong>Pegasaurus</strong>
+            </td>        
+  </div> -->
+
+<div align="center">
+    <table>
+        <tr>
+            <td style="border-left: 1px solid #dddddd; padding: 10px;" width="300">
+                <img src="https://tryhackme-badges.s3.amazonaws.com/vajra108.png" alt="THM Badge" width="300" />
+                <br>
+                <a href="https://tryhackme.com/r/p/vajra108" target="_blank">TryHackMe Profile</a>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="150">
+                <div style="float: left; margin-right: 20px;">
+                    <img src="https://github.com/arajput108/arajput108/blob/main/Images/Holopin-%201.png" alt="Holopin Badge" width="150" />
+                    <br>
+                    <strong>Holopin Badge</strong>
+                </div>
+                <div style="float: right;">
+                    <img src="https://github.com/arajput108/arajput108/blob/main/Images/Early%20Bird%20Pegasaurus.png" alt="Pegasaurus Badge" width="150" />
+                    <br>
+                    <strong>Pegasaurus</strong>
+                </div>
+            </td>
+        </tr>
+    </table>
 </div>
+
+
+
+ 
 <br>
 
 ### ✍️ Random Dev Quote
