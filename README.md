@@ -1,6 +1,6 @@
 
 <h1 align="center">Namaskar!!🙏, I'm Aakash Rajput🌞</h1>
-<h3 align="center">A passionate frontend developer from भारत (India)🇮🇳 </h3>
+<h3 align="center">A passionate frontend dev & Cyber Enthusiast from भारत (India)🇮🇳 </h3>
 
  <a href="https://github.com/arajput108"> 
     <img src="https://github.com/arajput108/arajput108/blob/main/Images/senior_dev.gif" alt="Aakash GitHub" height='300' width='400'/>  
