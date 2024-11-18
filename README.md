@@ -1,6 +1,17 @@
-
 <h1 align="center">Namaskar!!🙏, I'm Aakash Rajput🌞</h1>
-<h3 align="center">A passionate frontend dev & Cyber Enthusiast from भारत (India)🇮🇳 </h3>
+
+<!-- Who Am I -->
+<h2 align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/V2hvIEFtIEk/karasha.png" width="200" alt="Who Am I">
+</h2>
+
+<p align="center">
+  <a href="https://github.com/1hehaq"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Frontend+Web+Dev;Ex+NCC+Cadet;Cyber+Security+Enthusiast;CTF+Player+•+Python+Dev;Defense%20Aficiondao%20%26%20Geopolitical+Aficiondao+•+Python+Dev" alt="Typing SVG" align="center"/></a>
+</p>
+
+  <img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" align="left" width="50" height="50" alt="image"/>
+
+<!--<h3 align="center">A passionate frontend dev & Cyber Enthusiast from भारत (India)🇮🇳 </h3> -->
 
  <a href="https://github.com/arajput108"> 
     <img src="https://github.com/arajput108/arajput108/blob/main/Images/senior_dev.gif" alt="Aakash GitHub" height='300' width='400'/>  
