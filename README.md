@@ -73,7 +73,7 @@
             <td style="border-left: 1px solid #dddddd; padding: 10px;" width="350">
                <img src="https://tryhackme-badges.s3.amazonaws.com/vajra108.png" alt="Your Image Badge" />
                 <br>
-                <a href="#" target="_blank">TryHackMe Profile</a>
+                <a href="https://tryhackme.com/r/p/vajra108" target="_blank">TryHackMe Profile</a>
             </td>
         </tr>
         <tr>
