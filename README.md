@@ -56,16 +56,29 @@
   <br>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arajput108&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arajput108&theme=github_dark" />
+   <p align="center">
+      <a>
+         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arajput108&theme=radical" alt="arajpu108" /></p>
+      </a>
+   </p>
+
+ <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arajput108&theme=synthwave-84&true&hide_border=true" />
+ </div>
 </div>
 <br>
 
 
 <!---------------------------------------------------------- GitHub Trophies ------------------------------------------------------->
-## 🏆 GitHub Trophies:
+<details>
+  <summary>🏆 GitHub Trophies:</summary>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arajput108" alt="arajput108" /></a> </p>
+</details>
+
 
 <!---------------------------------------------------------- Achievements & Profile ------------------------------------------------------->
-## :zap: Achievements & Profile:
+<details>
+ <summary>:zap: Achievements & Profile:</summary>
 
 <div align="center">
     <table>
@@ -92,13 +105,12 @@
         </tr>
     </table>
 </div>
-
+</details>
 
 <!---------------------------------------------------------- Last Section ------------------------------------------------------->
-<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arajput108&limit=5&theme=yeblu&combine_all_yearly_contributions=true)
+<details>
+  <summary>🔝 Top Contributed Repo</summary>
+  ![](https://github-contributor-stats.vercel.app/api?username=arajput108&limit=5&theme=yeblu&combine_all_yearly_contributions=true)
+</details>
+ 
