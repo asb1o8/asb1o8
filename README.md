@@ -8,7 +8,7 @@
 
 <!---------------------------------------------------------- Typing SVGs ------------------------------------------------------->
 <p align="center">
-  <a href="https://github.com/1hehaq"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Frontend+Web+Dev;Ex+NCC+Cadet;Cyber+Security+Enthusiast;CTF+Player+•+Python+Dev;Defense%20Aficiondao" alt="Typing SVG" align="center"/></a>
+  <a href="https://github.com/arajput108"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Frontend+Web+Dev;Ex+NCC+Cadet;Cyber+Security+Enthusiast;CTF+Player+•+Python+Dev;Defense%20Aficiondao" alt="Typing SVG" align="center"/></a>
 </p>
 
 <!---------------------------------------------------------- Code & Data Image ------------------------------------------------------->
@@ -21,7 +21,7 @@
 
 
 <!---------------------------------------------------------- About Section ------------------------------------------------------->
-![Visitor Count](https://profile-counter.glitch.me/{UtkarshPrajapati}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{arajput108}/count.svg)
 
 # 💫 About Me:
 - 🔭 I’m currently working on my projects.<br>
