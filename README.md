@@ -112,10 +112,8 @@
 <details>
   <summary>🔝 Top Contributed Repo</summary>
   
-  ![](https://github-contributor-stats.vercel.app/api?username=arajput108&limit=5&theme=yeblu&combine_all_yearly_contributions=true)
-  
+  ![](https://github-contributor-stats.vercel.app/api?username=arajput108&limit=5&theme=yeblu&combine_all_yearly_contributions=true) 
 </details>
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
