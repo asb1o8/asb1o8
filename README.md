@@ -50,15 +50,18 @@
 <!---------------------------------------------------------- GitHub Stats -------------------------------------------------------->
 # 📊 GitHub Stats:
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arajput108&theme=github_dark" /><br>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arajput108&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arajput108&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arajput108&theme=github_dark" /><br>
+  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arajput108&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arajput108&theme=github_dark"/> 
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=arajput108&theme=nightowl&hide_border=false)
   <br>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arajput108&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arajput108&theme=github_dark" />
    <p align="center">
       <a>
-         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arajput108&theme=radical" alt="U$3r_$tr3@k" /></p>
+         <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arajput108&theme=merko&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
       </a>
    </p>
 
@@ -67,7 +70,6 @@
  </div>
 </div>
 <br>
-
 
 <!---------------------------------------------------------- GitHub Trophies ------------------------------------------------------->
 <details>
