@@ -20,7 +20,7 @@
 
 # <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About Me:
 - 🔭 I’m currently working on my projects.<br>
-- 🌱 I’m currently learning React JS & Linux.<br>
+- 🌱 I’m currently learning Bug Hunting, would you like to collaborate?.<br>
 - 💬 Ask & Discuss me about:- Cyber Security, Geopolitics, Defense Affairs & History.<br>
 - ⚡ Funniest fact: Pakistan holds world's largest surrender record of 93000 soldiers to India during 1971 INDO-PAK war.<br>
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/aakash-rajput%F0%9F%87%AE%F0%9F%87%B3-064b361b4/)** <br>
