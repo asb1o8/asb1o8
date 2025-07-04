@@ -25,8 +25,8 @@
 <!---------------------------------------------------------- Social Accounts ------------------------------------------------------->
 ## 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/aakash-rajput-064b361b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash rajput🇮🇳" height="30" width="40" /></a>
-<a href="https://twitter.com/vajra93000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sureshdsk" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aakash-rajput-064b361b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash rajput🇮🇳" height="20" width="30" /></a>
+<a href="https://twitter.com/vajra93000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sureshdsk" height="20" width="30" /></a>
 <a href="https://tryhackme.com/r/p/Deathesther" target="blank"><img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" height="30" width="60" /></a>
 <a href="https://medium.com/@kaaL_bh4iraV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kaaL_bh4iraV" height="30" width="40" /></a>  
  <a href="https://discord.com/channels/@vajra93000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vajra93000" height="30" width="40" /></a>
