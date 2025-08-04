@@ -22,7 +22,8 @@
 - ⚡ Unprecedented fact:- Pakistan holds world's largest surrender record of 93000 soldiers to India during 1971 INDO-PAK war.<br>
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/aakash-rajput%F0%9F%87%AE%F0%9F%87%B3-064b361b4/)**
 <br>
-- 💡 Always learning, breaking, and securing systems
+- ⚔️ Constant training, Recon, breach, secure and fortifying cyberdef.
+
 
 
 <!---------------------------------------------------------- Social Accounts ------------------------------------------------------->
