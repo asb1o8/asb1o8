@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on my inner-engineering.<br>
 - 🌱 I’m currently learning Bug Hunting, would you like to collaborate? <br>
 - 💬 Ask & Discuss me about:- Cyber Security, Geopolitics, Defense Affairs & History.<br>
-- 👨‍💻 Passionate About:- Solving CTF challenges, Geopolitics, Defense Affairs, History, OSINT and constantly refining my hacking skills.<br>
+- 👨‍💻 Passionate About:- CTFs, Geopolitics, Defense Affairs, History, OSINT and constantly refining my hacking skills.<br>
 - ⚡ Unprecedented fact:- Pakistan holds world's largest surrender record of 93000 soldiers to India during 1971 INDO-PAK war.<br>
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/aakash-rajput%F0%9F%87%AE%F0%9F%87%B3-064b361b4/)**
 <br>
