@@ -22,7 +22,7 @@
 - 👨‍💻 Passionate About:- CTF, Geopolitics, Defense Affairs, History, OSINT.
 - ⚔️ Constant training, Recon, breach, secure and fortifying cyberdef.
 - ⚡ Unprecedented fact:- Pakistan holds the world record for the largest military surrender- 93,000 troops to India in the 1971 war.<br>
-- 🎖️ Achieved top 3% ranking on [TryHackMe](https://tryhackme.com/p/KaalBhairav1O8).
+- 🎖️ Top 2% (out of 4M+ users) on [TryHackMe](https://tryhackme.com/p/KaalBhairav1O8).
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/aakash-rajput%F0%9F%87%AE%F0%9F%87%B3-064b361b4/)**
 <br>
 
