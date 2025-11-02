@@ -8,7 +8,7 @@
 
 <!---------------------------------------------------------- Typing SVGs ------------------------------------------------------->
 <p align="center">
-  <a href="https://github.com/arajput108"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF13&center=true&vCenter=true&width=435&lines=Cyber+Security+Practitioner;OSINT+Explorer;Ex+NCC+Cadet;CTF+Player+•+Python+Dev;Defense%20Aficiondao" alt="Typing SVG" align="center"/></a> 
+  <a href="https://github.com/arajput108"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF13&center=true&vCenter=true&width=435&lines=Security+Researcher;OSINT+Explorer;CTF+Player;Python+Dev+•+Ex+NCC+Cadet;Defense%20Aficiondao" alt="Typing SVG" align="center"/></a> 
 </p>
 
 <!---------------------------------------------------------- About Section ------------------------------------------------------->
