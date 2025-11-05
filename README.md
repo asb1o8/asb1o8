@@ -52,7 +52,7 @@
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asb1o8&theme=github_dark" /><br>
   
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arajput108&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asb1o8&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asb1o8&theme=github_dark"/> 
   <br>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asb1o8&theme=github_dark"/>
@@ -69,7 +69,7 @@
 <!---------------------------------------------------------- GitHub Trophies ------------------------------------------------------->
 <details>
   <summary>🏆 GitHub Trophies:</summary>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arajput108" alt="asb1o8" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asb1o8" alt="asb1o8" /></a> </p>
 </details>
 
 
@@ -89,7 +89,7 @@
         <tr>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="150">
                 <div style="float: left; margin-right: 20px;">
-                    <img src="https://github.com/arajput108/asb1o8/blob/main/Images/Holopin-%201.png" alt="Holopin Badge" width="150" />
+                    <img src="https://github.com/asb1o8/asb1o8/blob/main/Images/Holopin-%201.png" alt="Holopin Badge" width="150" />
                     <br>
                     <strong>Holopin Badge</strong>
                 </div>
