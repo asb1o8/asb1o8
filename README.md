@@ -98,11 +98,11 @@
 
 <!---------------------------------------------------------- Last Section ------------------------------------------------------->
 
-<details>
+<!-- <details>
   <summary>🔝 Top Contributed Repo</summary>
   
   ![](https://github-contributor-stats.vercel.app/api?username=asb1o8&limit=5&theme=yeblu&combine_all_yearly_contributions=true) 
-</details>
+</details> -->
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/asb1o8)
 
