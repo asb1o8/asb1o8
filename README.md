@@ -53,10 +53,11 @@
   
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asb1o8&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asb1o8&theme=github_dark"/> 
-  <br>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asb1o8&theme=github_dark"/> 
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asb1o8&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asb1o8&theme=github_dark" />
+  <br>
+  <img width="50%" align='center' src="https://luvsascam-3.carrd.co/assets/images/image01.gif?v=07364e7c">
+  
   ![](https://github-readme-streak-stats.herokuapp.com/?user=asb1o8&theme=nightowl&hide_border=false)
   
  <div align="center">
