@@ -37,7 +37,9 @@
 - 🎖️ Top 1% (out of 4M+ users) on [TryHackMe](https://tryhackme.com/p/KaalBhairav1O8).
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/aakash-rajput%F0%9F%87%AE%F0%9F%87%B3-064b361b4/)**
 <br>
-
+<div style="display: flex; flex-wrap: wrap; justify-content: stretch; gap: 1rem; width: 100%; margin-top: -15px;">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/KaalBhairav1O8.png" alt="TryHackMe" height="135" style="max-width: 100%; min-width: 260px; flex: 1 1 45%; object-fit: contain;"/>
+</div>
 
 
 <!---------------------------------------------------------- Social Accounts ------------------------------------------------------->
@@ -123,36 +125,6 @@
 </div>
 <br>
 
-<!---------------------------------------------------------- Achievements & Profile ------------------------------------------------------->
-<details>
- <summary>:zap: Achievements & Profile:</summary>
-
-<div align="center">
-    <table>
-        <tr>
-            <td style="border-left: 1px solid #dddddd; padding: 10px;" width="350">
-              <img src="https://tryhackme-badges.s3.amazonaws.com/KaalBhairav1O8.png" alt="Your Image Badge" />
-<!--                 <br>
-                <a href="https://tryhackme.com/r/p/KaalBhairav1O8" target="_blank">TryHackMe Profile</a> -->
-            </td>
-        </tr>
-        <tr>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="150">
-                <div style="float: left; margin-right: 20px;">
-                    <img src="https://github.com/asb1o8/asb1o8/blob/main/Images/Holopin-%201.png" alt="Holopin Badge" width="150" />
-                    <br>
-                    <strong>Holopin Badge</strong>
-                </div>
-                <div style="float: right;">
-                    <img src="https://github.com/asb1o8/asb1o8/blob/main/Images/Early%20Bird%20Pegasaurus.png" alt="Pegasaurus Badge" width="150" />
-                    <br>
-                    <strong>Pegasaurus</strong>
-                </div>
-            </td>
-        </tr>
-    </table>
-</div>
-</details>
 
 <!---------------------------------------------------------- Last Section ------------------------------------------------------->
 
