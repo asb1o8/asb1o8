@@ -1,15 +1,27 @@
-<!---------------------------------------------------------- Initial Intoduduciton ------------------------------------------------------->
-  <img src="https://github.com/arajput108/arajput108/blob/main/Images/om-svgrepo-com.svg" align="left" width="50" height="50" alt="image"/>
-  
-<!---------------------------------------------------------- Who Am I ❓------------------------------------------------------->
-<h2 align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/V2hvIEFtIEk/karasha.png" width="200" alt="Who Am I">
-</h2>
+ <!---------------------------------------------------------- Who Am I ❓------------------------------------------------------->
 
 <!---------------------------------------------------------- Typing SVGs ------------------------------------------------------->
+<!-- <p align="center">
+  <a href="https://github.com/asb1o8"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF13&center=true&vCenter=true&width=435&lines=Security+Analyst;Web+Pentester+•+Ex+NCC+Cadet;ISO%20Auditor" alt="Typing SVG" align="center"/></a> 
+</p> -->
+
+
+<!---------------------------------------------------------- Initial Strong foothold ------------------------------------------------------->
+ <h1 align="center">Hey! Great to see you here 👋</h1>
+<h3 align="center">
+  < Aakash Rajput />  
+</h3>
 <p align="center">
-  <a href="https://github.com/arajput108"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF13&center=true&vCenter=true&width=435&lines=Security+Analyst;Web+Pentester+•+Ex+NCC+Cadet;ISO%20Auditor" alt="Typing SVG" align="center"/></a> 
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E74C3C&center=true&vCenter=true&width=600&lines=Web+%26+API+Penetration+Tester;VAPT+%7C+OSINT;Social+Engineer+%7C+Ex+NCC+Cadet" alt="Typing SVG" />
 </p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SECURITY%20ANALYST-e74c3c?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/PENETRATION%20TESTER-e74c3c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ex%20NCC%20Cadet-e74c3c?style=for-the-badge" />
+</p>
+
 
 <!---------------------------------------------------------- About Section ------------------------------------------------------->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arajput108&label=Profile%20views&color=00FF00&style=flat" alt="arajput108" /> </p>
