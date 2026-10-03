@@ -142,5 +142,5 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:0d0d0d&height=130&section=footer&text=Veni.%20Vedi.%20Vici.&fontSize=18&fontColor=00ff41&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:0d0d0d&height=130&section=footer&text=Veni,%20Vedi,%20Vici&fontSize=18&fontColor=00ff41&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
