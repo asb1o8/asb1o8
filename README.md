@@ -131,26 +131,7 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/asb1o8)
 <br>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
-
-<br>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&pause=1000&color=00FF13&center=true&width=435&lines=%E0%A4%86%E0%A4%AA%E0%A4%95%E0%A5%87+%E0%A4%86%E0%A4%97%E0%A4%AE%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%95+%E0%A4%A7%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%A6+!!+%F0%9F%99%8F;Thank+you+for+visiting+!!+%F0%9F%99%8F" alt="Typing SVG" />
-  </a>
- 
-</p>
 
 <div align="center">
-
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:0d0d0d&height=130&section=footer&text=Veni.%20Vedi.%20Vici.&fontSize=18&fontColor=00ff41&fontAlignY=65&animation=fadeIn" width="100%"/>
-
 </div>
