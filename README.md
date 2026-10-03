@@ -44,13 +44,7 @@
 
 <!---------------------------------------------------------- Social Accounts ------------------------------------------------------->
 ## 🌐 Socials:
-<p align="left">
-<a href="https://www.linkedin.com/in/asb-1O8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash rajput" height="25" width="30" /></a>
-<a href="https://twitter.com/asb1o8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sureshdsk" height="25" width="30" /></a>
-<a href="https://tryhackme.com/p/KaalBhairav1O8" target="blank"><img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" height="30" width="50" /></a>
-<a href="https://asb108.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kaaL_bh4iraV" height="20" width="30" /></a>  
- <a href="https://discord.com/channels/@vajra93000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vajra93000" height="30" width="40" /></a>
-<!-- <a href="https://auth.geeksforgeeks.org/user/arajput108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/arajput108/" height="30" width="40" /></a> -->
+
 </p><br>
 
 
@@ -113,10 +107,11 @@
 </table>
 
 <!---------------------------------------------------------- GitHub Stats -------------------------------------------------------->
-# 📊 GitHub Stats:
+# 📊 Profile Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asb1o8&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=asb1o8&theme=nightowl&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asb1o8&theme=dark&hide_border=true&background=050a05&ring=00ff41&fire=ff2244&currStreakLabel=00ff41&sideLabels=4a7a4a&dates=4a7a4a&stroke=1a3a1a)
+
   
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asb1o8&theme=github_dark" />
@@ -138,11 +133,7 @@
 <br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
- <p align="center">
-    <a href="http://s01.flagcounter.com/more/hOw"><img src="https://s01.flagcounter.com/count2/hOw/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_16/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0" alt="Typing SVG" /> 
- </a> 
- </p>
- <p text align="center">Created on: <b>Oct 25,2025</b></p>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
 
@@ -154,3 +145,12 @@
   </a>
  
 </p>
+
+<div align="center">
+
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:0d0d0d&height=130&section=footer&text=Veni.%20Vedi.%20Vici.&fontSize=18&fontColor=00ff41&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+</div>
