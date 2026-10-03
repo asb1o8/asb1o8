@@ -44,8 +44,17 @@
 
 <!---------------------------------------------------------- Social Accounts ------------------------------------------------------->
 ## 🌐 Socials:
-
-</p><br>
+<p align="left">
+  <a href="https://x.com/asb1o8" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+ 
+  <a href="https://www.linkedin.com/in/asb-1o8/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ 
+  <a href="https://medium.com/@asb1o8" target="_blank">
+    <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
+<br>
 
 
 <!---------------------------------------------------------- Tech Stacks ------------------------------------------------------->
