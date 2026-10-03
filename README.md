@@ -56,8 +56,6 @@
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> Arsenal & Expertise:
 <div align="center">
 
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A1%EF%B8%8F+ARSENAL+%26+EXPERTISE+%F0%9F%9B%A1%EF%B8%8F" alt="Arsenal"/> -->
-
 <table>
 <tr>
 <td align="center" width="25%">
@@ -90,10 +88,9 @@
 **📡 Network & Wireless**
 
 <img src="https://img.shields.io/badge/Wireshark%20%7C%20tcpdump--00ff88?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ettercap--00ff88?style=flat-square&logo=linux"/>
-<img src="https://img.shields.io/badge/Aircrack--ng--00ff88?style=flat-square"/>
+<img src="https://img.shields.io/badge/Aircrack_ng--00ff88?style=flat-square"/>
 <img src="https://img.shields.io/badge/SSLScan--00ff88?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hashcat%20%7C%20JtR--00ff88?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hashcat--00ff88?style=flat-square"/>
 </td>
 
 <td align="center" width="25%">
