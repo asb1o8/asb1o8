@@ -28,14 +28,13 @@
 
 
 # <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> WhoAmI?
-- 🔭 I’m currently working on my inner-engineering.<br>
-- 🌱 I’m currently learning Bug Hunting, would you like to collaborate? <br>
-- 💬 Ask & Discuss me about:- CyberSec, Geopolitics, Defense Affairs & History.<br>
-- 👨‍💻 Passionate About:- CTF, Geopolitics, Defense Affairs, History, OSINT.
-- ⚔️ Constant training, Recon, breach, secure and fortifying cyberdef.
+- 🔴 Engaged in **Offensive Security** <br>
+- 💬 Ask & Discuss me about:- CySec, Geopolitics, Defense Affairs & History.<br>
+- 🛠️ Proficient with core security suites including **Burp Suite**, **Nmap**, and **Metasploit**
+- 🎯 Chaining vulnerabilities into realistic, high-impact attack paths via practical exploitation
 - ⚡ Fact:- I scan, therefore I find.<br>
 - 🎖️ Top 1% (out of 4M+ users) on [TryHackMe](https://tryhackme.com/p/KaalBhairav1O8).
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/aakash-rajput%F0%9F%87%AE%F0%9F%87%B3-064b361b4/)**
+
 <br>
 <div style="display: flex; flex-wrap: wrap; justify-content: stretch; gap: 1rem; width: 100%; margin-top: -15px;">
   <img src="https://tryhackme-badges.s3.amazonaws.com/KaalBhairav1O8.png" alt="TryHackMe" height="135" style="max-width: 100%; min-width: 260px; flex: 1 1 45%; object-fit: contain;"/>
